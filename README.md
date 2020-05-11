@@ -21,3 +21,6 @@ downloadable from http://snap.stanford.edu/data.
  - Scikit-Learn
  - Networkx
  - Other general packages used: os, sys, time, random
+
+## Contributing
+Pull requests are welcome. For major changes, please first discuss what you would like to change.
