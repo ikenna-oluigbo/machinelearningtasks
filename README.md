@@ -7,7 +7,10 @@ to evaluate the models. The tasks includes Outlier Detection, Clustering, Link P
 
 # DATA
 All datasets used in this study were gotten from SNAP Datasets: Stanford large network dataset collection (2014), publicly 
-downloadable from http://snap.stanford.edu/data.
+downloadable from http://snap.stanford.edu/data. 
+
+# PROCESS
+To use this code, users must first learn vector embeddings from the graph datasets using the selected graph embedding models in this study.
 
 # REQUIREMENTS
  - WINDOWS or LINUX environment
