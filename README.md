@@ -9,6 +9,18 @@ to evaluate the models. The tasks includes Outlier Detection, Clustering, Link P
 All datasets used in this study were gotten from SNAP Datasets: Stanford large network dataset collection (2014), publicly 
 downloadable from http://snap.stanford.edu/data. 
 
+Citation for the GEMSEC Newsites Dataset:
+```
+@inproceedings{rozemberczki2019gemsec,
+title={GEMSEC: Graph Embedding with Self Clustering},
+author={Rozemberczki, Benedek and Davies, Ryan and Sarkar, Rik and Sutton, Charles},
+booktitle={Proceedings of the 2019 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining 2019},
+pages={65-72},
+year={2019},
+organization={ACM}
+}
+```
+
 # PROCESS
 To use this code, users must first learn vector embeddings from the graph datasets using the selected graph embedding models in this study.
 
